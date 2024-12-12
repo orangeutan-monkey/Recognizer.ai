@@ -3,7 +3,7 @@
 This project implements a machine learning model to classify audio files into predefined categories. It utilizes a convolutional neural network (CNN) trained on the UrbanSound8K dataset to identify various types of urban sounds. 
 
 ## DISCLAIMER 
-DUe to the hardware at hand, the accuracy isn't high enough for reliable predictions. I know that this is meant to be a final project, but over time, I want to further refine this and make it as accurate as possible, eventially leading to usage in various spaces. 
+Due to the hardware at our disposal, the accuracy isn't high enough for reliable predictions. I know that this is meant to be a final project, but over time, I want to further refine this and make it as accurate as possible, eventially leading to usage in various spaces. 
 
 So feel free to play around with this, change the parameeters, heck even change the model, and have fun learning about how all this works! 
 
