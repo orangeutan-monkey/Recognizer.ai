@@ -15,7 +15,7 @@ So feel free to play around with this, change the parameeters, heck even change 
 ## Prerequisites
 Before you run this project, make sure that you have a python version below 3.13 (tested on 3.12.4), along with a working install of pip. Also make sure that you have these packages: 
 - Tensorflow 2.x
-- Librosa (<3.13.x)
+- Librosa (python versions 3.8< x <3.13.x)
 - Matplotlib
 - Numpy 
 
