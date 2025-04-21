@@ -61,6 +61,6 @@ This project would not have been possible without the following resources and su
 These resources have collectively enabled this project to reach its current state, and we are immensely thankful for the support.
 
 
-Developed by: 
+Developed and Copyrighted by: 
 Anirudh Deveram 
 
